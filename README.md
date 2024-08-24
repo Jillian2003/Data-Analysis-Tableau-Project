@@ -18,6 +18,6 @@ This Tableau project visualizes sales data from a Megastore, focusing on custome
 To view the dashboard, download the Tableau workbook from the repository or access the online Tableau Public link: [Tableau Public Dashboard](https://public.tableau.com/app/profile/jillian.ireland/viz/MegastoreSalesDashboard/ProductDetails#1).
 
 ## **Repository Contents**
-- `/data:` Contains the dataset used for the analysis. [Dataset]()
+- `/data:` Contains the dataset used for the analysis. [Dataset](https://www.kaggle.com/datasets/sahilprajapati143/retail-analysis-large-dataset)
 - `/dashboards:` Tableau workbooks and dashboards. [Tableau Public Dashboard](https://public.tableau.com/app/profile/jillian.ireland/viz/MegastoreSalesDashboard/ProductDetails#1).
 - `/README.md:` This document.
