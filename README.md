@@ -1,7 +1,7 @@
 # **Megastore Sales Dashboard - Tableau Project**
 
 ## **Overview**
-This Tableau project visualizes sales data from a Megastore, focusing on customer demographics, sales trends, and product performance. The dashboard provides insights into peak sales periods, high-value customers, and the top-selling product categories.
+This Tableau project visualizes sales data from a fictional company (Megastore), focusing on customer demographics, sales trends, and product performance. The dashboard provides insights into peak sales periods, high-value customers, and the top-selling product categories.
 
 ## **Skills Used**
 - **Data Cleaning:** Ensured accuracy by handling missing values and formatting columns.
